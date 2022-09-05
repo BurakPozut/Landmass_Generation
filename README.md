@@ -1,5 +1,5 @@
 # Landmass_Generation
-Creating a infinite world map with landmass generation using procedural generation technics (Perlin Noise).For performance wise there is usage of  threading, LOD for optimization. If you want to use this project just open an empty unity project (version 2020.3.0f1). Then add the "Assets" and "Project Settings" to your project.
+Creating a infinite world map with landmass generation using procedural generation technics (Perlin Noise).For performance wise there is usage of  threading, LOD for optimization. If you want to use this project just open an empty unity project (version 2020.3.0f1). Then add the "Assets" and "Project Settings" to your project.  
 Tutorial I followed : https://www.youtube.com/watch?v=wbpMiKiSKm8&list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3
 
 ![Landmass4](https://user-images.githubusercontent.com/73240379/174745778-11f4030a-7c46-48c5-a31c-6311c4d2b90d.png)
